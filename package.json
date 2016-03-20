@@ -1,0 +1,42 @@
+{
+  "name": "pkleats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rengokantai/pkleats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rengokantai/pkleats/issues"
+  },
+  "homepage": "https://github.com/rengokantai/pkleats#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "chai": "^3.5.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-karma": "0.0.5",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-tslint": "^4.3.3",
+    "gulp-typescript": "^2.12.1",
+    "gulp-uglify": "^1.5.3",
+    "karma": "^0.13.22",
+    "karma-chai": "^0.1.0",
+    "karma-coverage": "^0.5.5",
+    "karma-mocha": "^0.2.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.3",
+    "tslint": "^3.6.0",
+    "vinyl-transform": "^1.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
